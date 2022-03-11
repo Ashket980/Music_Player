@@ -4,7 +4,7 @@
 
 Allows the user to download songs by entering in a song title which will include a variety of metadata as well as album cover.
 
-![alt tag](
+![alt tag](https://github.com/Ashket980/Music_Player/blob/main/68747470733a2f2f7261772e6769746875622e636f6d2f7361636572742f536f756e645365612f6d61737465722f536f756e6453656144656d6f2e676966.gif)
 
 Note: If your song isn't being properly searching, try adding song **title** and **artist**. To strengthen search further, add **album name**.
 
