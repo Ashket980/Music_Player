@@ -26,6 +26,8 @@ Filter through the songs using the `<` and `>` keys once shown.
    - Set directory
    - Change song filter quality
 
+<img src="https://github.com/Ashket980/Music_Player/blob/main/SettingsWindow.png" width="400" height="171"/>
+
 ##### Play Song:
    - Hit the play button on the bottom left of the album art
    - Hit again to pause the song
